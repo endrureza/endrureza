@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OpenAI**
 
-- 📝 I regularly write articles on [https://stuckoverflow.id](https://stuckoverflow.id)
+- 📝 I regularly write articles on [https://telingadigital.id](https://telingadigital.id)
 
 - 📫 How to reach me **endrureza@gmail.com**
 
