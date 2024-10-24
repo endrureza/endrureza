@@ -13,6 +13,9 @@
 
 - ⚡ Fun fact **Get bored easily**
 
+
+<a href="https://app.daily.dev/kroket"><img src="https://api.daily.dev/devcards/v2/ktV1QtNHQTq6klIaVtCPE.png?r=ewu&type=default" width="356" alt="Kroket's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kroketkitu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kroketkitu" height="30" width="40" /></a>
